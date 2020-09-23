@@ -1,0 +1,8 @@
+frmADOTotalsShow = 82, 80, 793, 426, , 63, 29, 569, 486, C
+rptParts = 132, 132, 774, 478, C, 30, -11, 752, 426, C
+frmAbout = 66, 66, 708, 412, C, 44, 44, 510, 390, C
+frmPrinterOptions = 110, 110, 704, 456, C, 88, 88, 372, 385, C
+frmPrintLandscape = 0, 0, 0, 0, C, 44, 44, 538, 250, C
+modtxtEffect = 0, 0, 0, 0, C
+modWebEmail = 0, 0, 0, 0, C
+OnTopModule = 0, 0, 0, 0, C
